@@ -1,4 +1,5 @@
-Create list of stakeholders (e.g., Admin, Staff, Customer, etc.)
+Create list of stakeholders 
+  (e.g., Admin, Staff, Customer, etc.)
   Who else? How to find? Brainstorm with an LLM.
 
 Identify stakeholder biases:
